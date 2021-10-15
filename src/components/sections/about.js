@@ -126,7 +126,23 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = [
+    'Java',
+    'Springboot',
+    'Jpa',
+    'Hibernate',
+    'Swagger',
+    'WordPress',
+    'Joomla',
+    'Edureka',
+    'Cloud Server',
+    'Oracle DBA',
+    'React Js',
+    'Vue Js',
+    'Thymeleaf',
+    'Php',
+    'Laravel',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,30 +152,27 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Job Gwese I have over 4 years’ experience working as a systems
+              developer and database administrator. I have worked wqith several private and public
+              institutions developing systems in various programming languages. I graduated from the{' '}
+              <a href="https://www.uz.ac.zw/"> University Of Zimbabwe </a> with an Honour's Degree
+              in Business Studies and Computing Sciences.
+            </p>
+            <p>
+              After graduation, I worked with several companies on both full time and contractual
+              basis doing software development as part of the team and as an individual. Mentioning
+              but only a few, I have had the privilege to work with companies like{' '}
+              <a href="https://www.tsl.co.zw/"> TSL</a>,{' '}
+              <a href="https://www.baklogistics.com/"> BAK LOGISTICS</a>,{' '}
+              <a href="https://www.avis.co.zw/"> AVIS </a>,{' '}
+              <a href="https://www.agricura.co.zw/"> AGRICURA </a>,{' '}
+              <a href="https://www.propakafrica.com/"> PROPAK </a>, TSF, PALMLINK PRIVATE LIMITED
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
-            </p>
-
-            <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              Fast-forward to today, and I’ve had the privilege of working at. My main focus these
+              days is building accessible, inclusive products and digital solutions using
+              micro-services architecture for a variety of clients.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
