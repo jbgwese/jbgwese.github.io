@@ -5,7 +5,7 @@ module.exports = {
     title: 'Job Gwese',
     description:
       'A developer of enterprise back-end solutions and an occasional web design enthusiast',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://jbgwese.github.io', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@jbgwese',
   },
@@ -20,13 +20,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'JobGwese',
+        short_name: 'JobGwese',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
-        icon: 'src/images/logo.png',
+        icon: 'src/images/logo1.png',
       },
     },
     `gatsby-plugin-offline`,
