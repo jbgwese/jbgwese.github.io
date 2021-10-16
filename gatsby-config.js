@@ -20,13 +20,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'JobGwese',
-        short_name: 'JobGwese',
+        name: 'BrittanyChiang',
+        short_name: 'BrittanyChiang',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
-        icon: 'src/images/logo1.png',
+        icon: 'src/images/logo.png',
       },
     },
     `gatsby-plugin-offline`,

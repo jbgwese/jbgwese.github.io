@@ -16,4 +16,4 @@ company: ''
 showInProjects: true
 ---
 
-A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS
+A fully fletched micro-service architecture system built in java using springboot. The project shows communication between the two services through API calls where the user service callthe department service before saving a new user.
