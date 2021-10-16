@@ -1,7 +1,7 @@
 ---
 date: 'January 2021'
 title: 'Participated in the re-design and development of E-nurse Recruitment system '
-cover: './agricura-768x387.png'
+cover: './e-nurse.png'
 external: 'http://enurse.mohcc.org.zw:8084/enurse/home'
 cta: 'http://enurse.mohcc.org.zw:8084/enurse/home'
 tech:
